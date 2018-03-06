@@ -4,7 +4,6 @@
 <h1 align="center" style="margin-bottom: 20px;">wxParse-微信小程序富文本解析组件</h1>
 <h2 align="center">支持Html及markdown转wxml可视化</h2>
 <p align="center"><code>版本号:0.3</code></p>
-<p align="center">来源: [微信小程序开发论坛-weappdev](https://weappdev.com)</p>
 <p align="center">作用: 将Html/Markdown转换为微信小程序的可视化方案</p>
 
 
@@ -26,10 +25,6 @@
 ## 相关截图
 
 ![相关截图](screenshoot/screen.jpg)
-
-## 感谢
-
-[@stonewen](https://github.com/stonewen)| [@Daissmentii](https://github.com/Daissmentii)        | [@wuyanwen](https://github.com/wuyanwen)           | [@vcxiaohan](https://github.com/vcxiaohan)  |
 
 ## 基本使用方法
 
@@ -136,26 +131,6 @@ parsedata:{
 }
 
 ```
-
-* 参见wiki[wxParse二次开发文档](https://github.com/icindy/wxParse/wiki/wxParse%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%8F%91%E6%96%87%E6%A1%A3)
-
-## 相关文章
-
-* [wxDiscode－微信小程序特殊字符转义符转化工具类](http://weappdev.com/t/wxdiscode/203)
-* [微信小程序组件wxParse中的模版template使用 既然不能循环那就使用笨办法](http://weappdev.com/t/wxparse-template/192)
-* [微信小程序单图片的自适应计算](https://weappdev.com/t/topic/301)
-
-
-## 捐献
-
-* 参见wiki[捐献作者](https://github.com/icindy/wxParse/wiki/%E6%8D%90%E7%8C%AE%E4%BD%9C%E8%80%85)
-
-## 来源
-[微信小程序开发论坛](http://weappdev.com)
-垂直微信小程序开发交流社区
-
-可在网站扫描二维码进入我们的微信小程序群，也可以微信搜索"weappmsg"进入"小码消息"公众号
-![小码消息-weappmsg](screenshoot/weappmsg_qr.jpg)
-其他方式:合作qq群511389428
+本人在网上收集的资料，如果侵犯到您的权利，请联系：673576394
 
 
